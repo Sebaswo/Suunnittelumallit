@@ -16,7 +16,7 @@
             "request": "launch",
             "mainClass": "AbstractFactory.Main",
             "projectName": "Suunnittelumallit_dd6f0aac",
-            "args": ["aadidas"]
+            "args": ["bosss"]
         },
         {
             "type": "java",
