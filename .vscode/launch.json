@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Composite.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +23,9 @@
             "request": "launch",
             "mainClass": "AbstractFactory.Main",
             "projectName": "Suunnittelumallit_dd6f0aac",
-            "args": ["bosss"]
+            "args": [
+                "bosss"
+            ]
         },
         {
             "type": "java",
