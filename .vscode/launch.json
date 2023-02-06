@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "Singleton.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "Observer.Main",
             "projectName": "Suunnittelumallit_dd6f0aac"
         },
