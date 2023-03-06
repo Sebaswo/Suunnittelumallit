@@ -8,15 +8,15 @@ public class Pokemon {
         state = Charmander.getInstance();
     }
 
-    public void aantele(Pokemon pkmn) {
+    public void aantele() {
         state.aantele(this);
     }
 
-    public void tanssi(Pokemon pkmn) {
+    public void tanssi() {
         state.tanssi(this);
     }
 
-    public void syo(Pokemon pkmn) {
+    public void syo() {
         state.syo(this);
     }
 

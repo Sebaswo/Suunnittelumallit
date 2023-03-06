@@ -6,9 +6,9 @@ public class Main {
         Pokemon pkmn = new Pokemon();
 
         while (pkmn.getAika() < 750) {
-            pkmn.aantele(pkmn);
-            pkmn.tanssi(pkmn);
-            pkmn.syo(pkmn);
+            pkmn.aantele();
+            pkmn.tanssi();
+            pkmn.syo();
         }
     }
 }
