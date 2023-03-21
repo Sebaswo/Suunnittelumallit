@@ -7,8 +7,7 @@ public class Arvuuttaja {
     private Random rndm = new Random();
 
     public Object liityPeliin() {
-        int randLuku = rndm.nextInt(10)+1;
-        return new Memento(randLuku);
+        return new Memento(rndm.nextInt(10)+1);
     }
 
     public boolean vertaaLukuja(Object obj, int arvattuLuku) {
