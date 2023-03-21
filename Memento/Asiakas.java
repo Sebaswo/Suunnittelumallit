@@ -6,7 +6,7 @@ public class Asiakas extends Thread{
     private Arvuuttaja arvuuttaja;
     private Object memento;
     private Random rndm = new Random();
-    int pelaajanro;
+    private int pelaajanro;
 
     public Asiakas(int nro, Arvuuttaja arvuuttaja) {
         this.arvuuttaja = arvuuttaja;
