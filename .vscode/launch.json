@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Adapter.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Builder.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Visitor.Main",
             "projectName": "Suunnittelumallit_dd6f0aac"
         },
