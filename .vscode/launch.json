@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Flyweight.Test",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "StringTest",
+            "request": "launch",
+            "mainClass": "Flyweight.StringTest",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Adapter.Main",
