@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainD",
+            "request": "launch",
+            "mainClass": "Iterator.MainD",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "MainC",
+            "request": "launch",
+            "mainClass": "Iterator.MainC",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "MainB",
+            "request": "launch",
+            "mainClass": "Iterator.MainB",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "MainA",
+            "request": "launch",
+            "mainClass": "Iterator.MainA",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "CMain",
+            "request": "launch",
+            "mainClass": "Iterator.CMain",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "AMain",
+            "request": "launch",
+            "mainClass": "Iterator.AMain",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "BMain",
+            "request": "launch",
+            "mainClass": "Iterator.BMain",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Iterator.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Prototype.Main",
