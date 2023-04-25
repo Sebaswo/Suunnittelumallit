@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Command.Main",
+            "projectName": "Suunnittelumallit_dd6f0aac"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Facade.Main",
             "projectName": "Suunnittelumallit_dd6f0aac"
         },
