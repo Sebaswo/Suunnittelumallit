@@ -15,8 +15,8 @@ public class MainD {
         Iterator<Integer> iterator1 = lista.iterator();
         Iterator<Integer> iterator2 = lista.iterator();
 
-        Saie saie1 = new Saie(iterator1, 1);
-        Saie saie2 = new Saie(iterator2, 2);
+        SaieD saie1 = new SaieD(iterator1, 1);
+        SaieD saie2 = new SaieD(iterator2, 2);
 
         saie1.start();
         saie2.start();
